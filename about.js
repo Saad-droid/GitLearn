@@ -9,7 +9,7 @@ export const getStaticProps=async()=>{
     }
    }
 }
-const  about=({data})=>{
+const  noabout=({data})=>{
   return <>
   <h2>sportsssssss</h2>
       <div className="">
