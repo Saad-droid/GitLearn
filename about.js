@@ -11,7 +11,7 @@ export const getStaticProps=async()=>{
 }
 const  about=({data})=>{
   return <>
-  <h2>Technology</h2>
+  <h2>sportsssssss</h2>
       <div className="">
         <div className="row">
       {data.articles.map((value) => {
