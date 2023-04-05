@@ -1,4 +1,4 @@
-
+// this is branch in which we can add a feature or fix an error
 export const getStaticProps=async()=>{
   const res= await fetch ("http://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=c6b81467acc245b8a69d728bf1350cc0")
   const data= await res.json();
